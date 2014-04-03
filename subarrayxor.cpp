@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define MAXN 2000000
+#define MAXN 100001
 #define sd(x) scanf("%d", &x)
 
 int s[MAXN], a[MAXN];
